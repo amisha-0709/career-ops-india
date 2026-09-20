@@ -1,3 +1,5 @@
+<img width="480" height="249" alt="1777196650478" src="https://github.com/user-attachments/assets/d33556a6-7b5c-48a9-8ffe-046a0be5b5fd" />
+<img width="800" height="385" alt="1777196649923" src="https://github.com/user-attachments/assets/c09c7d0d-d145-4c8d-9f46-ad9b5d5e1d89" />
 # Career-Ops India
 
 **AI-powered job application pipeline built for the Indian job market.**
